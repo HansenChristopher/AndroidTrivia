@@ -1,10 +1,10 @@
-# <Android Trivia>
+# Android Trivia
 
 An Android application that allows you to play a trivia game.
 
-Submitted by: <Christopher Hansen>
+Submitted by: Christopher Hansen
 
-Time spent: <4.5 hours>
+Time spent: 4.5 hours
 
 ## User Stories
 
